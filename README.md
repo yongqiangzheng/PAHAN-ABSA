@@ -1,6 +1,6 @@
-# Position-Aware Hybrid Attention Network for Aspect-Level Sentiment Analysis
+# Position-aware Hybrid Attention Network for Aspect-Level Sentiment Analysis
 
-Code for Paper "Position-Aware Hybrid Attention Network for Aspect-Level Sentiment Analysis"
+Code for Paper "Position-aware Hybrid Attention Network for Aspect-Level Sentiment Analysis"
 
  *CCIR*, 2020
 
